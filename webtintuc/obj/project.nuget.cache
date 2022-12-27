@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mjf5ymvRw+yR0aIHOqHsh9jY+rFgS4AwUyR3mCnJOhITKZpZqoo4HuxwgT9PSDlHxTOiW2PbcSb/LMcYWzmgag==",
+  "dgSpecHash": "myNlYVuk9W8y4yTMy1oLu6vDMbKObr2OU0glGD7+FSTQmOXZou3PwZQfzNPNHg5TOKkKZJNjc4Hx1YsQAUrsDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\webtintuc.csproj",
+  "projectFilePath": "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\webtintuc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TRUONG\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TRUONG\\.nuget\\packages\\mediabrowser.common\\4.8.0.20-beta9\\mediabrowser.common.4.8.0.20-beta9.nupkg.sha512",

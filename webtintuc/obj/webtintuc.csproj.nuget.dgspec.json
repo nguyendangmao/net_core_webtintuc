@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\webtintuc.csproj": {}
+    "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\webtintuc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\webtintuc.csproj": {
+    "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\webtintuc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\webtintuc.csproj",
+        "projectUniqueName": "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\webtintuc.csproj",
         "projectName": "webtintuc",
-        "projectPath": "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\webtintuc.csproj",
+        "projectPath": "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\webtintuc.csproj",
         "packagesPath": "C:\\Users\\TRUONG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TRUONG\\Desktop\\daf\\webtintuc\\obj\\",
+        "outputPath": "C:\\Users\\TRUONG\\Source\\Repos\\net_core_webtintuc\\webtintuc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
