@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TRUONG\\Desktop\\webtintuc\\webtintuc\\webtintuc.csproj": {}
+    "C:\\Users\\TRUONG\\Desktop\\New folder\\webtintuc\\webtintuc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TRUONG\\Desktop\\webtintuc\\webtintuc\\webtintuc.csproj": {
+    "C:\\Users\\TRUONG\\Desktop\\New folder\\webtintuc\\webtintuc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TRUONG\\Desktop\\webtintuc\\webtintuc\\webtintuc.csproj",
+        "projectUniqueName": "C:\\Users\\TRUONG\\Desktop\\New folder\\webtintuc\\webtintuc.csproj",
         "projectName": "webtintuc",
-        "projectPath": "C:\\Users\\TRUONG\\Desktop\\webtintuc\\webtintuc\\webtintuc.csproj",
+        "projectPath": "C:\\Users\\TRUONG\\Desktop\\New folder\\webtintuc\\webtintuc.csproj",
         "packagesPath": "C:\\Users\\TRUONG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TRUONG\\Desktop\\webtintuc\\webtintuc\\obj\\",
+        "outputPath": "C:\\Users\\TRUONG\\Desktop\\New folder\\webtintuc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,28 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MediaBrowser.Common": {
+              "target": "Package",
+              "version": "[4.8.0.20-beta9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[2.0.0-preview1-final, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
